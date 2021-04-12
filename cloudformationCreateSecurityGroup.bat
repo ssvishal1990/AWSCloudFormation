@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name serverStack --template-body file://servercreator.yml  --parameters file://servercreator.json

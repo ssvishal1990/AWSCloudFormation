@@ -1,0 +1,1 @@
+ssh ec2-user@15.206.67.87 -i jumpbox.pem
